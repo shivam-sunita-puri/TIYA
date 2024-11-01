@@ -52,7 +52,7 @@ Roles & Tasks Requried to complete the project
 - Enable real-time streaming and processing of HR data to generate audio
 - Tools: Fitbit software developer kit (API), web app integration
 
-### Roles required:
+### Roles/Skills required:
 - Experimental Deisgners
 - Data collection & analysis
 - Python Coders
