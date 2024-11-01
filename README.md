@@ -1,5 +1,10 @@
 # Tune into Your Heart (TIYA)
 
+## Contacts
+Shivam Puri, Rochelle De Silva
+
+EOI form: 
+
 Project Overview:
 -----------------
 Modulating heart rate interoception through music feedback to check if getting in tune with your heart has an impact on your performance in cognitive tasks and emotional state. 
