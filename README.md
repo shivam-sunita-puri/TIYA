@@ -3,7 +3,7 @@
 ## Contacts
 Shivam Puri, Rochelle De Silva
 
-EOI form: 
+EOI form: https://forms.gle/FHvEDUF6H5ZWsAXj6
 
 
 Project Overview:
