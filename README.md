@@ -26,6 +26,7 @@ Please see *TIYA/Literature* folder for pdf versions of the literature.
 Heart rate data for each participant will be taken for one hour (during which they will be asked to relax or take a nap for the first 30 minutes [RHR - Resting heart rate] and perform the task as a practice session of the main experiment for the last 30 minutes [AHR - Active Heart Rate]) to determine their average resting heart rate for these two conditions.
 
 Then, after a break of 20 minutes each participant will perform a battery of standardized cognitive tests such as SART, Flankers and Posner’s Cueing while listening to beats which are either in tune with their average RHR, AHR or a random frequency beat across three randomized blocks, each with a duration of 30 minutes. After each block, the participants will report on a subjective 5 point scale about their experience.
+![alt text](https://github.com/shivam-sunita-puri/TIYA/blob/main/Experimental_Design/Experimental_Design.png)
 
 ### Datasets:
 healthy control data stored in ./healthy controls
