@@ -39,25 +39,25 @@ Values are estimated beats per minute (BPM).
 Roles & Tasks Requried to complete the project
 -----------------------------------------------
 ### Tasks:
-#### Heart music
+#### Heartrate to music conversion:
 - Develop audio based on resting HR
 - Convert HR signal to audio stream
 - Tools: Python (preferable)
 - Data: Example HR data provided, participants own data (if wearing Fitbit)
 
-#### Cognitive tasks
+#### Cognitive task experiment design & data collection:
 - Implement SART, Flanker’s, Posner’s Cueing and subjective scale 
 - Tools: PsychoPy (Pavlovia)
 
-#### Extension: 
+#### Extension: App development (w/ potential real-time data streaming)
 - Enable real-time streaming and processing of HR data to generate audio
 - Tools: Fitbit software developer kit (API), web app integration
 
 ### Roles/Skills required:
-- Experimental Deisgners
+- Experimental Design
 - Data collection & analysis
-- Python Coders
-- App or Game Developers
+- Coding (Python or other)
+- App or Game Development
 - Music expertise
 
 
