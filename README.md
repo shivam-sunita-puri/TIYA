@@ -2,9 +2,16 @@
 
 Project Overview:
 -----------------
-Modulating heart rate interoception through music feedback to check if getting in tune with your heart has an impact on your performance in cognitive tasks and emotional state.
+Modulating heart rate interoception through music feedback to check if getting in tune with your heart has an impact on your performance in cognitive tasks and emotional state. 
+
+The hypothesis for the current experiment is that better cardiac interoception might be positively correlated with task performance and emotion regulation, hence training cardiac interoception through music based biofeedback. 
 
 ### Goals:
+- Establish correlations between cardiac interoceptions and cognitive task performance and emotional health
+- Design a musical biofeedback to train people to get in tune with their heart and improve their daily lives
+
+### Applications:
+Any correlation between cardiac interoception and cognitive task performance, emotional state can open doors to a new and accessible biofeedback. 
 
 ### Literature:
 Please see *TIYA/Literature* folder for pdf versions of the literature.
@@ -13,6 +20,14 @@ Please see *TIYA/Literature* folder for pdf versions of the literature.
 Heart rate data for each participant will be taken for one hour (during which they will be asked to relax or take a nap for the first 30 minutes [RHR - Resting heart rate] and perform the task as a practice session of the main experiment for the last 30 minutes [AHR - Active Heart Rate]) to determine their average resting heart rate for these two conditions.
 
 Then, after a break of 20 minutes each participant will perform a battery of standardized cognitive tests such as SART, Flankers and Posner’s Cueing while listening to beats which are either in tune with their average RHR, AHR or a random frequency beat across three randomized blocks, each with a duration of 30 minutes. After each block, the participants will report on a subjective 5 point scale about their experience.
+
+### Datasets:
+healthy control data stored in ./healthy controls
+n = 34
+Each pickle file contains the raw heart rate of a single participant recorded on their wearable device (Fitbit, any model). Contained within each file is a dataframe with two columns: timestamp and value.
+Timestamps are UNIX timestamps (milliseconds from epoch in UTC).
+Values are estimated beats per minute (BPM).
+
 
 Roles & Tasks Requried to complete the project
 -----------------------------------------------
@@ -32,4 +47,9 @@ Roles & Tasks Requried to complete the project
 - Tools: Fitbit software developer kit (API), web app integration
 
 ### Roles required:
-- 
+- Experimental Deisgners
+- Data collection & analysis
+- Python Coders
+- App or Game Developers
+- Music expertise
+
