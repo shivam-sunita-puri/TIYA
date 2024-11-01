@@ -41,7 +41,7 @@ Roles & Tasks Requried to complete the project
 #### Heart music
 - Develop audio based on resting HR
 - Convert HR signal to audio stream
-- Tools: Python
+- Tools: Python (preferable)
 - Data: Example HR data provided, participants own data (if wearing Fitbit)
 
 #### Cognitive tasks
