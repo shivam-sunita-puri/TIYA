@@ -1,4 +1,4 @@
-# Tune into Your Heart (TIYA)
+# TIYA: Tune Into Your heArt
 
 ## Contacts
 Shivam Puri, Rochelle De Silva
