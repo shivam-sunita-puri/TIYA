@@ -5,6 +5,7 @@ Shivam Puri, Rochelle De Silva
 
 EOI form: 
 
+
 Project Overview:
 -----------------
 Modulating heart rate interoception through music feedback to check if getting in tune with your heart has an impact on your performance in cognitive tasks and emotional state. 
@@ -40,7 +41,7 @@ Roles & Tasks Requried to complete the project
 #### Heart music
 - Develop audio based on resting HR
 - Convert HR signal to audio stream
-- Tools: Python? Rhythmo.me 
+- Tools: Python
 - Data: Example HR data provided, participants own data (if wearing Fitbit)
 
 #### Cognitive tasks
@@ -57,4 +58,8 @@ Roles & Tasks Requried to complete the project
 - Python Coders
 - App or Game Developers
 - Music expertise
+
+
+Collaborators:
+--------------
 
