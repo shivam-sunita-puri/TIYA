@@ -64,7 +64,9 @@ Roles & Tasks Requried to complete the project
 Collaborators:
 --------------
 [Dr. Pip Karoly ](https://findanexpert.unimelb.edu.au/profile/664387-pip-karoly)
+
 [Dr. Jodie Naim-Feil](https://findanexpert.unimelb.edu.au/profile/909039-jodie-naim-feil-feil)
+
 [Dr. Rachel Stirling](https://findanexpert.unimelb.edu.au/profile/878052-rachel-stirling)
 
 Project contributors will be listed in project ReadME and their contributions to the project will be mentioned wherever the project is discussed.
