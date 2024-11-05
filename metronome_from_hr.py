@@ -16,7 +16,7 @@ generate_beep()
 
 #%% Read the healthy controls pickle file
 # Replace 'your_pickle_file.pkl' with the path to your pickle file
-pickle_file_path = 'datasets/healthy controls/0d392427-0450-4058-8748-6afde5ef3a01_heart_rate.pickle'
+pickle_file_path = 'datasets/healthy controls/5f4888a8-4063-4044-bf39-b5b50b8111bb_heart_rate.pickle'
 
 # Open the pickle file in binary read mode
 with open(pickle_file_path, 'rb') as file:
@@ -27,8 +27,8 @@ print(data)
 
 hr = data['value'].mean()
 
-# Print the hr value
-print(f"Heart rate (hr): {hr}")
+# Print the hr value as a whole number
+print(f"Average Heart rate (hr): {hr:.2f}")
 
 #%% Generate metronome sound based on hr
 def generate_metronome(bpm):
@@ -38,7 +38,8 @@ def generate_metronome(bpm):
     # Load the generated beep sound
     wave_obj = sa.WaveObject.from_wave_file('metronome_click.wav')
     
-    print(f"Metronome is playing at the BPM: {bpm}")
+    # Print the BPM as a whole number
+    print(f"Metronome is playing at the BPM: {bpm:.0f}")
     
     while True:
         play_obj = wave_obj.play()
@@ -47,5 +48,3 @@ def generate_metronome(bpm):
 
 # Start the metronome
 generate_metronome(hr)
-
-# %%
