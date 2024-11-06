@@ -72,8 +72,11 @@ Collaborators:
 Contributors:
 --------------
 Elnaz Nemati
+
 Emily Yap
+
 Betty Wutzl
+
 Oren Civier
 
 Project contributors will be listed in project ReadME and their contributions to the project will be mentioned wherever the project is discussed.
